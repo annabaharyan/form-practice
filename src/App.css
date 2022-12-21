@@ -1,0 +1,28 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 10px;
+}
+.app-component{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.addUser>form, .addUser>form>label{
+  display: flex;
+  flex-direction: column;
+}
+
+.addUser>form>button{
+  margin-top: 20px;
+}
+.high{
+  background-color: rgb(186, 136, 136);
+}
+table>th,td{
+  padding: 10px;
+}
+.down-sal-27{
+  margin: 25px 0;
+}
